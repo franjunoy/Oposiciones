@@ -27,4 +27,4 @@ yarn-error.log*
 
 esfera-oposiciones-app-firebase-adminsdk-8fvev-6c074cd6d6.json
 
-sendEmails
+sendEmails.ts
